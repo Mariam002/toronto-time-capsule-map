@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/toronto-time-capsule-map/static/css/main.77351dc4.css",
-    "main.js": "/toronto-time-capsule-map/static/js/main.86092395.js",
+    "main.js": "/toronto-time-capsule-map/static/js/main.abc668cc.js",
     "static/js/453.4cb65bd3.chunk.js": "/toronto-time-capsule-map/static/js/453.4cb65bd3.chunk.js",
     "static/media/AVARD-AUDIO.mp3": "/toronto-time-capsule-map/static/media/AVARD-AUDIO.aa2d0fa93503f5326cf2.mp3",
     "static/media/PETER-AUDIO.mp3": "/toronto-time-capsule-map/static/media/PETER-AUDIO.d9f0eedf3e2eb38b5d72.mp3",
@@ -11,11 +11,11 @@
     "static/media/map-marker-icon.png": "/toronto-time-capsule-map/static/media/map-marker-icon.cf50d5998fd808c28ae2.png",
     "index.html": "/toronto-time-capsule-map/index.html",
     "main.77351dc4.css.map": "/toronto-time-capsule-map/static/css/main.77351dc4.css.map",
-    "main.86092395.js.map": "/toronto-time-capsule-map/static/js/main.86092395.js.map",
+    "main.abc668cc.js.map": "/toronto-time-capsule-map/static/js/main.abc668cc.js.map",
     "453.4cb65bd3.chunk.js.map": "/toronto-time-capsule-map/static/js/453.4cb65bd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77351dc4.css",
-    "static/js/main.86092395.js"
+    "static/js/main.abc668cc.js"
   ]
 }
